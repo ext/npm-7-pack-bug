@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sandbox/base": "^1.0.0",
+    "@sandbox/base": "^1.0.0"
+  },
+  "devDependencies": {
     "@sandbox/plugin": "^1.0.0"
   }
 }

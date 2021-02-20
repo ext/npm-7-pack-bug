@@ -1,5 +1,5 @@
 {
-  "name": "@sandbox/plugin",
+  "name": "third-party",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -9,9 +9,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@sandbox/base": "1.0.0"
+    "@sandbox/base": "1.0.0",
+    "@sandbox/plugin": "1.0.0"
   },
   "peerDependencies": {
-    "@sandbox/base": "^1"
+    "@sandbox/base": "^1",
+    "@sandbox/plugin": "^1"
   }
 }
